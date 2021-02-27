@@ -1,1 +1,1 @@
-print('denchik penis')
+print('&&&&')
